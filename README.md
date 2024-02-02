@@ -19,7 +19,7 @@ Below are the steps that could be used to setup the applciation locally.
 
 1. Clone the repo : https://github.com/GouthamiMatavalam/app-server.git
 3. Install NPM packages : npm install
-4. Enter your Mongo DB URLL in api_links
+4. Enter your Mongo DB URL in api_links
 const MONGO_DB_URL = 'ENTER YOUR DB';
 
 Note :
