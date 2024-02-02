@@ -27,3 +27,6 @@ The code also integrates with Front end application, to receive the data.
 Please follow the instructions available for Frontend service setup available at - https://github.com/GouthamiMatavalam/movie-library-app/blob/master/README.md
 
 After starting application, application would be running locally in the listener port. Provided in index.js, PORT.
+
+Once the post call is executed successfully, you should be able to see below data stored in your database.
+![DBdata](https://github.com/GouthamiMatavalam/app-server/assets/38003356/e6f369f1-d7dc-4dd9-a166-bd7aee315117)
