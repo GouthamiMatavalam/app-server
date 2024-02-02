@@ -1,0 +1,30 @@
+{
+  "name": "app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "resolveJsonModule": true,
+  "scripts": {
+    "start": "nodemon",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/react-router": "^5.1.20",
+    "body-parser": "^1.20.2",
+    "circular-json": "^0.5.9",
+    "cors": "^2.8.5",
+    "flatted": "^3.2.9",
+    "mongoose": "^8.1.1",
+    "ts-node": "^10.9.2"
+  }
+}
