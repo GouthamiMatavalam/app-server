@@ -3,8 +3,8 @@
 The application is a backend application, to receive data from client and insert data in the Database.
 
 ## Built with
-TypesScript
-ExpressJS
+TypesScript,
+ExpressJS,
 MONGODB
 
 **Prerequisites**
